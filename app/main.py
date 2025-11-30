@@ -1,9 +1,6 @@
-# main.py
-
 from entities.produit import Produit
 from entities.client import Client
 
-# Choose your DAO implementations
 from Mysql.mysql_dao_client import MysqlClient
 from Mysql.mysql_dao_produit import MysqlProduit
 from Sqlite.sqlite_dao_client import SqliteClient

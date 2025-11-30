@@ -4,7 +4,7 @@ class DatabaseSqlite:
     _instance = None
 
     def __init__(self):
-        self.conn = sqlite3.connect("boutique.db")
+        self.conn = sqlite3.connect("db/boutique.db")
         self.conn.row_factory = sqlite3.Row
 
     @classmethod
