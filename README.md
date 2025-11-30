@@ -22,6 +22,9 @@ projets/
 ├── entities/
 │   ├── client.py
 │   └── produit.py
+├── db/
+│   ├── boutique.db
+│   └── boutique.sql
 ├── Mysql/
 │   ├── mysql_dao_client.py
 │   └── mysql_dao_produit.py
