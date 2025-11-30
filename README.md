@@ -156,6 +156,8 @@ Menu interactif :
 [Watch on Google Drive](https://drive.google.com/file/d/1Guowp7N8lRZlcr80iy7J6c2KJIbmPeF1/view?usp=sharing)
 ##### video de dimenstration MySQL:
 [Watch on Google Drive](https://drive.google.com/file/d/1BUSb3BJDd8YGcDFYAz1BZlaXveTC4svB/view?usp=sharing)
+- <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/f9a41e60-7ab3-47b9-9960-eba782287ff2" />
+- <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/673d3d0b-9265-4151-acf9-01405e741c5a" />
 ## 💡 Concepts Practiced
 
 - Utilisation du pattern Singleton pour gérer les connexions aux bases de données
