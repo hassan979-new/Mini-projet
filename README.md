@@ -149,12 +149,10 @@ Menu interactif :
 
 - Quitter
 ## 🖥️ Example Execution
+##### video de dimenstration SQLite:
 
-### Exercice1 :
-
-### Exercice2 : 
-
-### Exercice3 :
+##### video de dimenstration MySQL:
+-
 ## 💡 Concepts Practiced
 
 - Utilisation du pattern Singleton pour gérer les connexions aux bases de données
